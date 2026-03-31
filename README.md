@@ -15,6 +15,7 @@ AI-powered bug reporting platform with session replay, semantic deduplication, a
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [bugspotter-sdk](https://github.com/apex-bridge/bugspotter-sdk) | Browser SDK with session replay, PII sanitization, 345 tests | TypeScript, rrweb, Playwright |
+| [bugspotter-extension](https://github.com/apex-bridge/bugspotter-extension) | Chrome Extension for one-click bug capture | TypeScript, Chrome APIs |
 | [bugspotter-intelligence](https://github.com/apex-bridge/bugspotter-intelligence) | RAG service for bug analysis with multi-LLM support | Python, FastAPI, pgvector |
 | [dedupkit](https://github.com/apex-bridge/dedupkit) | Standalone semantic deduplication library | Python, embeddings |
 
