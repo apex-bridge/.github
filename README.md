@@ -21,4 +21,4 @@ AI-powered bug reporting platform with session replay, semantic deduplication, a
 
 **How it works:** capture bug reports with one click → AI deduplicates via vector similarity → LLM generates summaries and severity ratings → integrates with Jira, Slack, Discord.
 
-🌐 [apexbridge.tech](https://apexbridge.tech) · 🐛 [bugspotter.io](https://bugspotter.io)
+🌐 [apexbridge.tech](https://apexbridge.tech) · 🎯 [bugspotter.io](https://bugspotter.io)
